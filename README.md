@@ -10,7 +10,7 @@
 - 🤝 I’m looking for a new role **Software Engineer**
 
 
-- ⚡ **I love creating frontend pages**
+- ⚡ **I'm passionate about designing attracting frontend web pages.**
 
 <h3 align="left">Connect with me:</h3>
 
