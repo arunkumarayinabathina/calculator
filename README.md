@@ -22,9 +22,9 @@
 
 
 
- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"> 
- 
-
-
-<div class="circle-container"> <button class="circle-button instagram"><i class="fab fa-instagram"></i></button> <button class="circle-button telegram"><i class="fab fa-telegram"></i></button> <button class="circle-button github"><i class="fab fa-github"></i></button> <button class="circle-button linkedin"><i class="fab fa-linkedin"></i></button> <button class="circle-button facebook"><i class="fab fa-facebook"></i></button> <a href="https://www.instagram.com/your_instagram_username" target="_blank"> <button class="circle-button gmail"> <i class="far fa-envelope"></i></button> </a> 
-   </div> 
+ [![Instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png)](https://www.instagram.com/your_instagram_username)
+[![Telegram](https://img.icons8.com/color/48/000000/telegram-app.png)](https://t.me/your_telegram_channel)
+[![GitHub](https://img.icons8.com/nolan/48/github.png)](https://github.com/your_github_username)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/your_linkedin_profile)
+[![Facebook](https://img.icons8.com/fluent/48/000000/facebook-new.png)](https://www.facebook.com/your_facebook_profile)
+[![Gmail](https://img.icons8.com/office/48/000000/gmail.png)](mailto:your_email@example.com)
