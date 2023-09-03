@@ -22,8 +22,9 @@
 
 
 
- [![Instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png)](https://www.instagram.com/your_instagram_username)
-[![Telegram](https://img.icons8.com/color/48/000000/telegram-app.png)](https://t.me/your_telegram_channel)
-[![GitHub](https://img.icons8.com/nolan/48/github.png)](https://github.com/your_github_username)
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/your_linkedin_profile)
-[![Facebook](https://img.icons8.com/fluent/48/000000/facebook-new.png)](https://www.facebook.com/your_facebook_profile)
+ [![Instagram](https://fontawesome.com/icons/instagram?style=brands)](https://www.instagram.com/your_instagram_username)
+[![Telegram](https://fontawesome.com/icons/telegram?style=brands)](https://t.me/your_telegram_channel)
+[![GitHub](https://fontawesome.com/icons/github?style=brands)](https://github.com/your_github_username)
+[![LinkedIn](https://fontawesome.com/icons/linkedin?style=brands)](https://www.linkedin.com/in/your_linkedin_profile)
+[![Facebook](https://fontawesome.com/icons/facebook?style=brands)](https://www.facebook.com/your_facebook_profile)
+[![Gmail](https://fontawesome.com/icons/envelope?style=solid)](mailto:your_email@example.com)
