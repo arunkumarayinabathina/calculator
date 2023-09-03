@@ -27,4 +27,3 @@
 [![GitHub](https://img.icons8.com/nolan/48/github.png)](https://github.com/your_github_username)
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/your_linkedin_profile)
 [![Facebook](https://img.icons8.com/fluent/48/000000/facebook-new.png)](https://www.facebook.com/your_facebook_profile)
-[![Gmail](https://img.icons8.com/office/48/000000/gmail.png)](mailto:your_email@example.com)
