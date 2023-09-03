@@ -22,9 +22,9 @@
 
 
 
- - [Instagram](https://www.instagram.com/your_instagram_username)
-- [Telegram](https://t.me/your_telegram_channel)
-- [GitHub](https://github.com/your_github_username)
-- [LinkedIn](https://www.linkedin.com/in/your_linkedin_profile)
-- [Facebook](https://www.facebook.com/your_facebook_profile)
-- Email: your_email@example.com
+ [![Instagram](https://i.imgur.com/ABC123.png)](https://www.instagram.com/your_instagram_username)
+[![Telegram](https://i.imgur.com/DEF456.png)](https://t.me/your_telegram_channel)
+[![GitHub](https://i.imgur.com/GHI789.png)](https://github.com/your_github_username)
+[![LinkedIn](https://i.imgur.com/JKL012.png)](https://www.linkedin.com/in/your_linkedin_profile)
+[![Facebook](https://i.imgur.com/MNO345.png)](https://www.facebook.com/your_facebook_profile)
+[![Gmail](https://i.imgur.com/PQR678.png)](mailto:your_email@example.com)
