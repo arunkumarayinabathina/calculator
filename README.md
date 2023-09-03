@@ -22,7 +22,8 @@
 
 
 
-
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"> 
+ 
 
 
 <div class="circle-container"> <button class="circle-button instagram"><i class="fab fa-instagram"></i></button> <button class="circle-button telegram"><i class="fab fa-telegram"></i></button> <button class="circle-button github"><i class="fab fa-github"></i></button> <button class="circle-button linkedin"><i class="fab fa-linkedin"></i></button> <button class="circle-button facebook"><i class="fab fa-facebook"></i></button> <a href="https://www.instagram.com/your_instagram_username" target="_blank"> <button class="circle-button gmail"> <i class="far fa-envelope"></i></button> </a> 
