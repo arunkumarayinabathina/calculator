@@ -22,26 +22,9 @@
 
 
 
- <a href="https://www.instagram.com/your_instagram_username" target="_blank">
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" alt="Instagram" width="30" height="30">
-</a>
-
-<a href="https://t.me/your_telegram_channel" target="_blank">
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" alt="Telegram" width="30" height="30">
-</a>
-
-<a href="https://github.com/your_github_username" target="_blank">
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" alt="GitHub" width="30" height="30">
-</a>
-
-<a href="https://www.linkedin.com/in/your_linkedin_profile" target="_blank">
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" alt="LinkedIn" width="30" height="30">
-</a>
-
-<a href="https://www.facebook.com/your_facebook_profile" target="_blank">
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" alt="Facebook" width="30" height="30">
-</a>
-
-<a href="mailto:your_email@example.com">
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" alt="Gmail" width="30" height="30">
-</a>
+ - [Instagram](https://www.instagram.com/your_instagram_username)
+- [Telegram](https://t.me/your_telegram_channel)
+- [GitHub](https://github.com/your_github_username)
+- [LinkedIn](https://www.linkedin.com/in/your_linkedin_profile)
+- [Facebook](https://www.facebook.com/your_facebook_profile)
+- Email: your_email@example.com
