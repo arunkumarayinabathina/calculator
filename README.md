@@ -7,7 +7,7 @@
 
 
 - 🔶**Interested in learning new skills**
-- 🤝 I’m looking for a new role **Software Engineer**
+- 🤝 I’m looking for a new role **Web Developer**
 
 
 - ⚡ **I'm passionate about designing attracting frontend web pages.**
